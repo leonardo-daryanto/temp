@@ -10,10 +10,10 @@ namespace temp {
 
         let temp = input.temperature()
 
-        basic.forever(function() {
+        
             
-            basic.showNumber(temp)
-        })
+         basic.showNumber(temp)
+        
     }
     /**
      *  value temp is useful
